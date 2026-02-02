@@ -1,0 +1,2 @@
+#niestety żeby utrzymać Warstwy/ jestem zmuszony do trzymania w tym folderze jakiegoś pliku
+ # on istnieje tylko po to żeby Warstwy/ działały po utworzeniu jako dir na gicie
