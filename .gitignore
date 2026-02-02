@@ -1,0 +1,17 @@
+ppa_projekt/
+gminy/
+jednostki_ewidencyjne/
+*.zip
+*.gdb
+*.shp
+*.shx
+*.dbf
+*.cpg
+*.prj
+*.sbn
+*.sbx
+*.xml
+*.atbx
+*.aprx
+temp/
+D:/T/
