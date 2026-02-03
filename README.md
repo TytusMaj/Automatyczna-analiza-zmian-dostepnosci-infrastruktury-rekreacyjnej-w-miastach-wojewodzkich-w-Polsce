@@ -1,6 +1,6 @@
 Analiza dostępności obiektów rekreacyjnych w miastach wojewódzkich w latach 2022–2024
 
-Celem projektu jest analiza zmian w dostępności obiektów rekreacyjnych w miastach wojewódzkich w Polsce w latach 2022–2024, przeprowadzona na podstawie danych przestrzennych BDOT10k. Projekt koncentruje się na ilościowym i przestrzennym ujęciu dostępności.
+Projekt dotyczy analizy zmian w dostępności obiektów rekreacyjnych w miastach wojewódzkich w Polsce w latach 2022–2024, przeprowadzonej na podstawie danych przestrzennych BDOT10k. Projekt koncentruje się na ilościowym i przestrzennym ujęciu dostępności.
 
 Cel projektu : 
 
